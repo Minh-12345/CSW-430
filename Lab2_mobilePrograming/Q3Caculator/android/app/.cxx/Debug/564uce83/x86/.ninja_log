@@ -1,0 +1,15 @@
+# ninja log v5
+2	37	0	C:/Users/ADMIN/Q3Caculator/android/app/.cxx/Debug/564uce83/x86/CMakeFiles/cmake.verify_globs	e67b60cf4d8cefe3
+40	2802	7830299180817460	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/da71e1ec3b56ad50e5f8336e8af5809b/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	e6dbd11b331db99e
+28	3343	7830299186228601	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4aa5b2ebbf796d0371516b8d127cf813/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	bf1effc73305f03a
+53	3916	7830299191897385	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/52a7aeb9baea9c6cd3f4e332eb4a6a92/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	5e675b35a797596b
+34	3932	7830299192111040	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e874f2b72a20f45687e26b5e958afb88/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o	51814abf8bbd642e
+13	4304	7830299195837890	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/446145012c505743bb57c803f19c483b/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	c1d67250b4d367a7
+46	4582	7830299198662653	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4aa5b2ebbf796d0371516b8d127cf813/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	f7737728fd90af1
+5	4588	7830299198622654	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f2b36c8775b2915c
+18	4707	7830299199845631	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/da71e1ec3b56ad50e5f8336e8af5809b/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	f611a7476de85f8c
+23	5312	7830299205870907	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/5ca8fa09a3043ab4080a700f407d2ae8/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	12319e14f5e9d827
+8	5381	7830299206358084	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/a49d1fa9ff04bd644be1d46d5f37dcd4/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	c674dd8e4e931972
+5382	5521	7830299208008561	C:/Users/ADMIN/Q3Caculator/android/app/build/intermediates/cxx/Debug/564uce83/obj/x86/libreact_codegen_safeareacontext.so	37edfaf812e5a583
+1	6053	7830299213231912	CMakeFiles/appmodules.dir/C_/Users/ADMIN/Q3Caculator/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ea02289583aa3a06
+6053	6144	7830299214323774	C:/Users/ADMIN/Q3Caculator/android/app/build/intermediates/cxx/Debug/564uce83/obj/x86/libappmodules.so	8347a4bf4dfd0a17

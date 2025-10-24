@@ -1,0 +1,6 @@
+C:/Users/ADMIN/Q3Caculator/android/app/.cxx/Debug/564uce83/armeabi-v7a/CMakeFiles/appmodules.dir
+C:/Users/ADMIN/Q3Caculator/android/app/.cxx/Debug/564uce83/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Q3Caculator/android/app/.cxx/Debug/564uce83/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/ADMIN/Q3Caculator/android/app/.cxx/Debug/564uce83/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+C:/Users/ADMIN/Q3Caculator/android/app/.cxx/Debug/564uce83/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Q3Caculator/android/app/.cxx/Debug/564uce83/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir

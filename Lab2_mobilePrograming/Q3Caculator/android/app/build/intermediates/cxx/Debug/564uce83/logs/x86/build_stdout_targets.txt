@@ -1,0 +1,15 @@
+ninja: Entering directory `C:\Users\ADMIN\Q3Caculator\android\app\.cxx\Debug\564uce83\x86'
+[0/2] Re-checking globbed directories...
+[1/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/da71e1ec3b56ad50e5f8336e8af5809b/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o
+[2/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4aa5b2ebbf796d0371516b8d127cf813/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o
+[3/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/52a7aeb9baea9c6cd3f4e332eb4a6a92/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o
+[4/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e874f2b72a20f45687e26b5e958afb88/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o
+[5/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/446145012c505743bb57c803f19c483b/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o
+[6/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4aa5b2ebbf796d0371516b8d127cf813/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o
+[7/13] Building CXX object CMakeFiles/appmodules.dir/OnLoad.cpp.o
+[8/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/da71e1ec3b56ad50e5f8336e8af5809b/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o
+[9/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/5ca8fa09a3043ab4080a700f407d2ae8/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o
+[10/13] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/a49d1fa9ff04bd644be1d46d5f37dcd4/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+[11/13] Linking CXX shared library C:\Users\ADMIN\Q3Caculator\android\app\build\intermediates\cxx\Debug\564uce83\obj\x86\libreact_codegen_safeareacontext.so
+[12/13] Building CXX object CMakeFiles/appmodules.dir/C_/Users/ADMIN/Q3Caculator/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+[13/13] Linking CXX shared library C:\Users\ADMIN\Q3Caculator\android\app\build\intermediates\cxx\Debug\564uce83\obj\x86\libappmodules.so

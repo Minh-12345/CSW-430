@@ -1,0 +1,20 @@
+# ninja log v5
+14	87	0	C:/Users/ADMIN/Q2Login/android/app/.cxx/Debug/6t4h6g2l/arm64-v8a/CMakeFiles/cmake.verify_globs	8aa4cf378bf8ea14
+68	11003	7830265112957296	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/9691ed3410cc5a238fcaf27a38f76d5c/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	f014c4d697bb97a
+54	11500	7830265118111234	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e1a331edef61a1d3e7864b49b8483b38/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	830edb204da23af7
+91	11704	7830265120091569	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3343d99f7397e41a84f8d7ce5c016574/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	49186de05584b2b3
+76	11878	7830265121816624	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/c88cca41a96b45db4b69cdc84b8c7c59/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o	67caad39979c854b
+2	12559	7830265128673177	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cb580da4245ca793
+38	13008	7830265133240450	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8aa45f6afc68c063d97b21f45375dd4a/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	31cab76749c28e55
+82	13102	7830265134138109	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/9691ed3410cc5a238fcaf27a38f76d5c/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	ae34dc9055efc1a5
+61	13414	7830265137121741	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/0a031dc8627e837079e2c0b1d865e8aa/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	7d806202d486161b
+47	13831	7830265141383017	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e1a331edef61a1d3e7864b49b8483b38/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	a8914db547441de1
+28	14298	7830265146102207	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3ce74a6baeffa97d76b1aee1a32ed4c6/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	cea38cbe6c4c1af0
+20	14338	7830265146347435	CMakeFiles/appmodules.dir/C_/Users/ADMIN/Q2Login/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8c4daa8810de33df
+14299	14591	7830265149004674	C:/Users/ADMIN/Q2Login/android/app/build/intermediates/cxx/Debug/6t4h6g2l/obj/arm64-v8a/libreact_codegen_safeareacontext.so	4ece369e0e4a229a
+14591	14690	7830265150100639	C:/Users/ADMIN/Q2Login/android/app/build/intermediates/cxx/Debug/6t4h6g2l/obj/arm64-v8a/libappmodules.so	74afc197dd5bcef3
+39	132	0	C:/Users/ADMIN/Q2Login/android/app/.cxx/Debug/6t4h6g2l/arm64-v8a/CMakeFiles/cmake.verify_globs	8aa4cf378bf8ea14
+29	104	0	C:/Users/ADMIN/Q2Login/android/app/.cxx/Debug/6t4h6g2l/arm64-v8a/CMakeFiles/cmake.verify_globs	8aa4cf378bf8ea14
+18	70	0	C:/Users/ADMIN/Q2Login/android/app/.cxx/Debug/6t4h6g2l/arm64-v8a/CMakeFiles/cmake.verify_globs	8aa4cf378bf8ea14
+29	143	0	C:/Users/ADMIN/Q2Login/android/app/.cxx/Debug/6t4h6g2l/arm64-v8a/CMakeFiles/cmake.verify_globs	8aa4cf378bf8ea14
+21	74	0	C:/Users/ADMIN/Q2Login/android/app/.cxx/Debug/6t4h6g2l/arm64-v8a/CMakeFiles/cmake.verify_globs	8aa4cf378bf8ea14
