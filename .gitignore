@@ -25,3 +25,15 @@ Thumbs.db
 **/.cxx/
 *.apk
 *.so
+
+
+# Android build files
+**/android/app/build/
+**/android/.gradle/
+**/.gradle/
+**/.cxx/
+**/node_modules/
+**/build/
+*.apk
+*.so
+*.keystore
